@@ -1,0 +1,26 @@
+{
+  "name": "shcreditcardvalidator",
+  "version": "1.0.0",
+  "description": "Smart Hospitality: CC validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oraclespainpresales/shCreditCardValidator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oraclespainpresales/shCreditCardValidator/issues"
+  },
+  "homepage": "https://github.com/oraclespainpresales/shCreditCardValidator#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "creditcard": "^0.1.2",
+    "express": "^4.16.2",
+    "npmlog-ts": "0.0.1"
+  }
+}
